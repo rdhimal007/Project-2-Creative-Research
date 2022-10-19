@@ -1,5 +1,9 @@
+// Name : Roshan Dhimal
+// Project2: Creative Research
+
 function setup(){
-    createCanvas(200,200);
+    // making a 720p resolution
+    createCanvas(1280,720);
     
 }
 function draw(){
