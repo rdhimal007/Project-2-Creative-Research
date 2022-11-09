@@ -1,6 +1,9 @@
 html, body {
     margin: 0;
     padding: 0;
+    width:100%;
+    height:100%;
+
   }
   canvas {
     display: block;
@@ -9,4 +12,17 @@ html, body {
  h1{
      text-align: center;
  }
-  
+  .center{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width:50%;
+  }
+canvas.centered{
+    display:block;
+    margin:auto;
+    left:500px;
+    top:300px;
+    /*position:absolute;*/
+
+}

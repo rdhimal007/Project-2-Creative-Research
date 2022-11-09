@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3bacfac-c140-4561-b186-e223e6b63c63" name="Changes" comment="&quot;making a border side wall&quot;">
-      <change afterPath="$PROJECT_DIR$/California Story.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/california.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/california.html" beforeDir="false" afterPath="$PROJECT_DIR$/california.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -46,10 +46,6 @@
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="8000">
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="8000" isV8Legacy="true">
-      <option name="v8Legacy" value="true" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +60,9 @@
       <workItem from="1666211640286" duration="1769000" />
       <workItem from="1666646425411" duration="3326000" />
       <workItem from="1666666526973" duration="22000" />
-      <workItem from="1666670062974" duration="233000" />
+      <workItem from="1666670062974" duration="1370000" />
+      <workItem from="1667272424658" duration="69000" />
+      <workItem from="1667950521981" duration="17934000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;adding name and making 720p&quot;">
       <created>1666159267357</created>
@@ -85,6 +83,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
