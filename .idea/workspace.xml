@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3bacfac-c140-4561-b186-e223e6b63c63" name="Changes" comment="&quot;making a border side wall&quot;">
-      <change afterPath="$PROJECT_DIR$/CaliforniaStory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FloridaStory.html" afterDir="false" />
+    <list default="true" id="e3bacfac-c140-4561-b186-e223e6b63c63" name="Changes" comment="&quot;adding new files for cali&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/California Story.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Climate Secure.html" beforeDir="false" afterPath="$PROJECT_DIR$/Florida.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geogrsphical Benefit.html" beforeDir="false" afterPath="$PROJECT_DIR$/Go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaliforniaStory.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaliforniaStory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Florida.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloridaStory.html" beforeDir="false" afterPath="$PROJECT_DIR$/FloridaStory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go.html" beforeDir="false" afterPath="$PROJECT_DIR$/Go.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/california.html" beforeDir="false" afterPath="$PROJECT_DIR$/california.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/human.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/human2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/human7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -72,7 +67,8 @@
       <workItem from="1667272424658" duration="69000" />
       <workItem from="1667950521981" duration="24382000" />
       <workItem from="1668005118846" duration="5727000" />
-      <workItem from="1668013434167" duration="6217000" />
+      <workItem from="1668013434167" duration="6246000" />
+      <workItem from="1668019885051" duration="6170000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;adding name and making 720p&quot;">
       <created>1666159267357</created>
@@ -88,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666160378524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;adding new files for cali&quot;">
+      <created>1668019852545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668019852545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;adding name and making 720p&quot;" />
     <MESSAGE value="&quot;making a border side wall&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;making a border side wall&quot;" />
+    <MESSAGE value="&quot;adding new files for cali&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;adding new files for cali&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_2_Creative_Research$test.dat" NAME="test Coverage Results" MODIFIED="1666160405419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

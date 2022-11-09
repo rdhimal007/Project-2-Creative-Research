@@ -77,9 +77,11 @@ function gotolink() {
     window.open("california.html");
 }
 function gotolink2() {
-    window.open("California Story.html");
+    window.open("FloridaStory.html");
 }
-
+function gotolink3() {
+    window.open("Go.html");
+}
 // draws background for image to show
 function drawback(){
 
@@ -88,7 +90,7 @@ function startFile(){
 
     btn(button1, "California", 320, 850,gotolink, '12','#bbb165' );
     btn(button2, "Florida", 1250, 1100,gotolink2, '12', '#b9ab63' );
-    btn(button3, "Destination", 1050, 700,gotolink2, '12', '#b9ab63' );
+    btn(button3, "Destination", 1050, 700,gotolink3, '12', '#b9ab63' );
     startButton.hide();
     detect = true;
 }

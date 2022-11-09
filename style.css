@@ -14,7 +14,7 @@ html, body {
      background-color: #da0c0c;
      font-size: 40px;
  }
- p{
+ .stylePara{
      background-color: #82ce82;
      stroke: azure;
      border-style: solid;
@@ -30,6 +30,7 @@ html, body {
 }
  .fontMake{
      stroke: azure;
+     background-color: #82ce82;
      border-style: solid;
      font-family: Arial;
      font-size: 20px;
