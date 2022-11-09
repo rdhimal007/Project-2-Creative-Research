@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e3bacfac-c140-4561-b186-e223e6b63c63" name="Changes" comment="&quot;making a border side wall&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/california.html" beforeDir="false" afterPath="$PROJECT_DIR$/california.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
       <workItem from="1666666526973" duration="22000" />
       <workItem from="1666670062974" duration="1370000" />
       <workItem from="1667272424658" duration="69000" />
-      <workItem from="1667950521981" duration="17934000" />
+      <workItem from="1667950521981" duration="24311000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;adding name and making 720p&quot;">
       <created>1666159267357</created>
