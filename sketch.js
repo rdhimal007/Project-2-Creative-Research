@@ -15,12 +15,14 @@ let fontSize;
 let fontColor;
 let sizeX;
 let sizeY;
-let button1;
-let button2;
-let startButton;
+let button1;  // california
+let button2;  //   florida
+let button3;  // great lake
+let startButton;  // start
 let button;
 let takeString;
 let func;
+let v;
 
 // preload the image
 function preload() {
@@ -50,7 +52,8 @@ function setup(){
     //make button for the program
     // btn(startButton, "Start", 800, 800, startFile, '12', '#83da6a');
     startButton = createButton("Start");
-    startButton.position(800,800);
+    // startButton.position(700,1200)
+    startButton.position(1050,windowHeight + 150);
     startButton.mousePressed(startFile);
     startButton.style('font-size', 12);
     startButton.style('background-color', '#83da6a');
@@ -61,20 +64,12 @@ function setup(){
 function draw(){
     background("#3c3c7c");
     // background("rgb(192,169,60)");
-    img3.resize(winWidth, winHeight);
-
-    // if block to change the positon of the image
-    // As the window size changes
-    if (windowWidth > 1886){
-        image(img3,550,0);
-    }
-    else{
-        image(img3,250,0);
-    }
-    image(img2, mouseX, mouseY);
+    img.resize(winWidth, winHeight);
+    // call background
     makeHeat();
-    // console.log(windowWidth, windowHeight);
-    console.log(mouseX, mouseY);
+    image(img2, mouseX, mouseY);
+    console.log(windowWidth, windowHeight);
+    console.log("mouse",mouseX, mouseY);
 }
 
 // move to new window
@@ -85,23 +80,38 @@ function gotolink2() {
     window.open("California Story.html");
 }
 
+// draws background for image to show
+function drawback(){
+
+}
 function startFile(){
-    btn(button1, "California", 320, 400,gotolink, '12','#bbb165' );
-    btn(button2, "here", 320, 400,gotolink2, '12', '#b9ab63' );
+
+    btn(button1, "California", 320, 850,gotolink, '12','#bbb165' );
+    btn(button2, "Florida", 1250, 1100,gotolink2, '12', '#b9ab63' );
+    btn(button3, "Destination", 1050, 700,gotolink2, '12', '#b9ab63' );
     startButton.hide();
     detect = true;
 }
 // draw a heat map in the window
 function makeHeat(){
 
+    // if block to change the positon of the image
+    // As the window size changes
     if (detect == false){
-        chooseColor = random(arrayColors);
-        fill(chooseColor);
-        circle(random(300,900),10,50);
-        noFill();
+        if (windowWidth > 1886){
+            image(img3,700,0);
+        }
+        else{
+            image(img3,400,0);
+        }
     }
     else{
-
+        if (windowWidth > 1886){
+            image(img,600,0);
+        }
+        else{
+            image(img,250,0);
+        }
     }
 
 }

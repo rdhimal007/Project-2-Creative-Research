@@ -11,7 +11,30 @@ html, body {
 
  h1{
      text-align: center;
+     background-color: #da0c0c;
+     font-size: 40px;
  }
+ p{
+     background-color: #82ce82;
+     stroke: azure;
+     border-style: solid;
+     font-family: Arial;
+     font-size: 15px;
+ }
+.link{
+    background-color: #0fde0f;
+    stroke: azure;
+    border-style: solid;
+    font-family: Arial;
+    font-size: 15px;
+}
+ .fontMake{
+     stroke: azure;
+     border-style: solid;
+     font-family: Arial;
+     font-size: 20px;
+ }
+
   .center{
       display: block;
       margin-left: auto;
@@ -24,5 +47,4 @@ canvas.centered{
     left:500px;
     top:300px;
     /*position:absolute;*/
-
 }
